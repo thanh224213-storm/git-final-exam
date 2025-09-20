@@ -14,3 +14,10 @@ Kỹ năng:
 1. Giao tiếp
 2. Làm việc nhóm
 3. Sử dụng Git
+Kế hoạch học tập:
+- Học và luyện tập Git hàng ngày.
+- Nắm vững các thao tác cơ bản và nâng cao.
+- Thực hành làm việc nhóm qua GitHub.
+- Tham gia dự án nhỏ để áp dụng kỹ năng Git.
+- Ôn tập và chuẩn bị cho các kỳ thi liên quan đến Git.
+
