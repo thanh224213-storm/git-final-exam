@@ -1,3 +1,5 @@
 Đây là file tạo trực tiếp trên GitHub
 Dùng để test git pull
 Thêm nội dung trực tuyến
+Đây là dòng thêm ở local
+Commit update từ local
