@@ -13,6 +13,11 @@
 8. Tìm hiểu Git stash và reset.  
 9. Ôn tập các lệnh Git log, diff, status.  
 10. Tổng kết, viết báo cáo học tập.  
+<<<<<<< Updated upstream
 11. Học thêm về Git stash
 12. Thực hành stash apply
 13. Ghi nhớ cách dùng stash list
+=======
+- Thực hành nhiều ví dụ hơn
+- Hoàn thành bài tập Git
+>>>>>>> Stashed changes
