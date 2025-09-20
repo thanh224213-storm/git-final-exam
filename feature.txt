@@ -1,0 +1,5 @@
+Tính năng mới: Hệ thống gợi ý kế hoạch học tập tự động.
+- Người dùng nhập mục tiêu học tập.
+- Hệ thống phân tích và đề xuất lịch học phù hợp.
+- Có thể điều chỉnh theo tiến độ thực tế.
+- Lưu lại lịch sử và cải thiện gợi ý theo thời gian.
