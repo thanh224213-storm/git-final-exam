@@ -1,3 +1,5 @@
 - Git giúp quản lý mã nguồn hiệu quả.
 - Dễ dàng làm việc nhóm.
 - Học Git giúp hiểu quy trình phát triển phần mềm.
+- Git hỗ trợ làm việc với nhiều branch.
+- Có thể khôi phục lại file đã mất.
