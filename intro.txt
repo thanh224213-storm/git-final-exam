@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+Tôi tên là Quách Phú Thành, hiện đang là sinh viên. 
+Tôi sinh ra và lớn lên tại Sóc Trăng. 
+Hiện tại tôi đang theo học ngành Công nghệ Thông tin.
+Mục tiêu của tôi là trở thành một lập trình viên giỏi.
+Tôi yêu thích việc học hỏi và chia sẻ kiến thức.
+
+Sở thích:
+1. Đọc sách
+2. Chơi thể thao
+3. Lập trình
+
+Kỹ năng:
+1. Giao tiếp
+2. Làm việc nhóm
+3. Sử dụng Git
